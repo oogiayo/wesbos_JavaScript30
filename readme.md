@@ -1,4 +1,12 @@
-﻿![](https://javascript30.com/images/JS3-social-share.png)
+﻿# JAVASCRIPT 30 Practice
+
+### _Used Open Sources(skeleton codes) from_ @webos
+
+> I practice to use Javascript professionally __with help from @webos__
+>
+> 2020.10.20~
+
+![](https://javascript30.com/images/JS3-social-share.png)
 
 # JavaScript30
 
